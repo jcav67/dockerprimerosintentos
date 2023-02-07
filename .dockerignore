@@ -9,3 +9,5 @@ package-lock.json
 .git
 .dockerignore
 .gitignore
+
+README.md
